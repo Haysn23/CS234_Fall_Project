@@ -1,1 +1,2 @@
-
+Edited Declaration per instructors notes from Stage1.
+Created UML map per v2 of declaration.
