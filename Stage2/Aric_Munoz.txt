@@ -1,0 +1,2 @@
+1. Review new declaration 
+2. Review and make adjustments to UML map. 
