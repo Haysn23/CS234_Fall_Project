@@ -1,0 +1,2 @@
+Aric J. Munoz:
+Utilize Mr. Hays updated UML to construct, adjust, and experiment with our program to get it run where it is at. 
