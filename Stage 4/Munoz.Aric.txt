@@ -1,0 +1,4 @@
+intital code compiling 
+diagnose issues with gui and code
+overview needed requirements 
+
